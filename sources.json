@@ -1,0 +1,80 @@
+{
+ "sites": [
+  {
+   "name": "PomBase",
+   "url": "https://www.pombase.org/",
+   "includes": [],
+   "match": [
+    "PomBase GO 注釈",
+    "PomBase の別名",
+    "PomBase 複合体",
+    "PomBase の GO",
+    "PomBase の定性の発現記録"
+   ],
+   "note": "遺伝子の一覧・別名・産物の説明、GO 注釈（has_input つき）、複合体の注釈、出芽酵母とのオルソログ対応、定性の発現記録（条件ごとの増加・減少）。月次版 2026-10-01",
+   "license": "CC BY 4.0",
+   "cite": [
+    "41518600"
+   ],
+   "retrieved": "2026-10-20"
+  },
+  {
+   "name": "BioGRID",
+   "url": "https://thebiogrid.org/",
+   "includes": [],
+   "match": [
+    "BioGRID"
+   ],
+   "note": "分裂酵母の酵素活性（Biochemical Activity）の関係。翻訳後修飾（PTM）の分裂酵母分は 4 行だけで、取り込んでいない",
+   "license": "MIT",
+   "cite": [
+    "33070389",
+    "16381927",
+    "20428315"
+   ],
+   "retrieved": "2026-10-20"
+  },
+  {
+   "name": "UniProt",
+   "url": "https://www.uniprot.org/",
+   "includes": [],
+   "match": [
+    "UniProt"
+   ],
+   "note": "分裂酵母の確認済みタンパク質の、活性の調節の文と修飾された残基",
+   "license": "CC BY 4.0",
+   "cite": [
+    "39552041"
+   ],
+   "retrieved": "2026-10-20"
+  },
+  {
+   "name": "Complex Portal",
+   "url": "https://www.ebi.ac.uk/complexportal/",
+   "includes": [],
+   "match": [
+    "Complex Portal"
+   ],
+   "note": "分裂酵母の複合体 145 件",
+   "license": "CC0",
+   "cite": [
+    "34718729"
+   ],
+   "retrieved": "2026-10-20"
+  },
+  {
+   "name": "Gene Ontology",
+   "url": "https://geneontology.org/",
+   "includes": [],
+   "match": [],
+   "note": "GO の用語の名前と階層（go-basic.obo 2026-07-26）。PomBase の GO 注釈の分類に使う",
+   "license": "CC BY 4.0",
+   "cite": [
+    "10802651",
+    "36866529"
+   ],
+   "retrieved": "2026-10-20"
+  }
+ ],
+ "papers": []
+}

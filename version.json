@@ -1,0 +1,11 @@
+{
+ "version": "dbc5265a1a96",
+ "commit": "0f16b3d",
+ "species": "sp",
+ "built_at": "2026-10-24 04:48",
+ "sizes": {
+  "pathways.db": 3239936,
+  "expression.db": 937984
+ },
+ "repo": "Raico-lab/pathways_viewer_sp"
+}
